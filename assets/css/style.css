@@ -598,6 +598,7 @@ body {
   position: relative;
   text-align: center;
   box-shadow: var(--shadow);
+  border-radius: 10px;
 }
 
 .work-card .card-subtitle {
